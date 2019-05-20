@@ -1,5 +1,6 @@
 # DengeTablasi
 Tablanın sürekli olarak dengede olması
+
 Arduino dosyası çalıştırılırken Portumuzu ve baund ayarlarını bilgisayarımıza
 göre yapmalıyız.Baund ayarı hızlı veya yavaş veri almamıza yarar.Fazla hızlı 
 almaya çalıştığımızda veri kaybının olacağını unutmayalım.
